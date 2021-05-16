@@ -1,0 +1,12 @@
+1. npm -v
+2. composer -v
+3. php -v
+4. npm install && node js install
+5. composer require laravel/ui
+6. php artisan ui bootstrap
+7. php artisan ui react
+8. npm install reactstrap --save //for bootstrap 
+9. npm install axios
+npm run dev
+npm run watch
+ReacStrap documentation
